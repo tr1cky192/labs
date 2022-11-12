@@ -1,0 +1,8 @@
+﻿  Header.cpp
+C:\Users\shysh\Desktop\LAB4KURS2\LAB4KURS2\Header.cpp(123,2): warning C4551: в вызове функции отсутствует список аргументов
+  LAB4KURS2.cpp
+C:\Users\shysh\Desktop\LAB4KURS2\LAB4KURS2\LAB4KURS2.cpp(8,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\shysh\Desktop\LAB4KURS2\LAB4KURS2\LAB4KURS2.cpp(75,7): warning C4102: case2: неиспользованная метка
+C:\Users\shysh\Desktop\LAB4KURS2\LAB4KURS2\LAB4KURS2.cpp(15,6): warning C4101: len: неиспользованная локальная переменная
+  Создание кода...
+  LAB4KURS2.vcxproj -> C:\Users\shysh\Desktop\LAB4KURS2\Debug\LAB4KURS2.exe
